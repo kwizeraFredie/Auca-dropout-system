@@ -1,0 +1,28 @@
+{
+  "properties": [
+    {
+      "name": "security.jwt.secret",
+      "type": "java.lang.String"
+    },
+    {
+      "name": "security.jwt.access-token-minutes",
+      "type": "java.lang.Long"
+    },
+    {
+      "name": "security.cookies.secure",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "name": "app.cors.allowed-origins",
+      "type": "java.lang.String"
+    },
+    {
+      "name": "app.password-reset.from",
+      "type": "java.lang.String"
+    },
+    {
+      "name": "app.password-reset.url",
+      "type": "java.lang.String"
+    }
+  ]
+}
